@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<package xmlns="http://www.zend.com/server/deployment-descriptor/1.0" version="1.0">
+    <name>iam-final-module</name>
+    <version>
+        <release>0.1.0</release>
+        <api>0.1.0</api>
+    </version>
+    <icon>static/images/icons/magicians/geomancer/favicon.ico</icon>
+    <eula>LICENSE</eula>
+    <appdir>data</appdir>
+    <docroot>data/public</docroot>
+    <scriptsdir>scripts</scriptsdir>
+    <healthcheck>https://api.notafacil.net.br/status/health</healthcheck>
+</package>
